@@ -1,0 +1,14 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define MAX_DENSITY 100
+
+#define LOW_TRAFFIC_TIME 10
+#define MEDIUM_TRAFFIC_TIME 20
+#define HIGH_TRAFFIC_TIME 35
+
+#define PEDESTRIAN_TIME 15
+
+#define CONGESTION_THRESHOLD 80
+
+#endif
